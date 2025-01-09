@@ -4,6 +4,13 @@
 
 The **AI Character Assistant** is an interactive application built with Streamlit that simulates conversational AI personas with unique profiles and speaking styles. It leverages natural language processing and voice synthesis to create a rich, engaging user experience. Users can interact with the AI via text or voice, configure custom character profiles, and receive dynamic responses tailored to the character's personality and emotional state.
 
+![WhatsApp Image 2025-01-09 at 18 12 04_33e959be](https://github.com/user-attachments/assets/e0a444fe-710a-4c99-945c-692c3c751b5c)
+
+#### Chat with character as per you interest
+
+![Screenshot 2025-01-09 181314](https://github.com/user-attachments/assets/ee711089-0d48-4092-95c6-02a724149a6a)
+
+
 ## Features
 
 ### Working Demo
